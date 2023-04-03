@@ -1,0 +1,12 @@
+{
+  "upload_type": "dataset",
+  "title": "Title",
+  "creators": [
+    {
+      "name": "Philip Meier",
+      "orcid": "0000-0002-5184-1622"
+    }
+  ],
+  "description": "Description",
+  "license": "cc-by-4.0"
+}
