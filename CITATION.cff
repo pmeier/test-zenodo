@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: This is the title
+- family-names: Meier
+  given-names: Philip
+type: dataset
+license: CC-BY-4.0
+url: https://github.com/pmeier/test-zenodo
